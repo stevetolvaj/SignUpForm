@@ -11,4 +11,4 @@ after the user presses the register button.
 
 ## Screenshot
 
-![login screen screenshot](screenshot (Phone).png)
+![login screen screenshot](https://github.com/stevetolvaj/SignUpForm/blob/cffa8952166626ea38ade39bf0ed08680d8a8e7d/screenshot%20(Phone).png)
