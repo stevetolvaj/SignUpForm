@@ -9,6 +9,6 @@ confirm password field will be checked for an equals condition to the previous p
 If all of these fields pass the validation conditions a toast message will be shown "Welcome, UserNameVar, to the SignUpForm App"
 after the user presses the register button.
 
-##Screenshot
+## Screenshot
 
 ![login screen screenshot](Screenshot_SignUpForm.jpg)
