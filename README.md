@@ -10,4 +10,5 @@ If all of these fields pass the validation conditions a toast message will be sh
 after the user presses the register button.
 
 ##Screenshot
+
 ![login screen screenshot](Screenshot_SignUpForm.jpg)
